@@ -14,7 +14,7 @@ function About() {
           </p>
           <div className="contact-links">
             <a
-              href="https://wa.me/qr/675VOPBKGTG7N1"
+              href="https://wa.me/+919975498782"
               target="_blank"
               rel="noopener noreferrer"
               className="contact-button whatsapp"

@@ -8,7 +8,7 @@ function Hero() {
 
       {/* 📦 Main Content */}
       <div className="hero-content">
-        <img src="\public\Crave Corner.jpeg" alt="Crave Corner" className="hero-logo" />
+        <img src="/Crave Corner.jpeg" alt="Crave Corner" className="hero-logo" />
         <h1>Crave Corner</h1>
         <p>Custom Cakes, Brownies, Cheesecakes & More</p>
         <a href="#products" className="cta-button">Explore Our Treats</a>
